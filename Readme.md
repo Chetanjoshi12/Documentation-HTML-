@@ -1,5 +1,5 @@
 # HTML
-<img src= "images.jpeg" alt="formats" width="" height="" >
+<img src= "HTML-Full-Form.jpg" alt="formats" width="" height="" >
  
 ## TABLE OF CONTENT
 ### 1.  Introduction to HTML
