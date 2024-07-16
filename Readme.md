@@ -1,5 +1,6 @@
 # HTML
-<img src= "HTML-Full-Form.jpg" alt="formats" width="" height="" >
+![image](https://github.com/user-attachments/assets/0fe1d24b-4226-4e07-b91b-76cc1fd7d39c)
+
  
 ## TABLE OF CONTENT
 ### 1.  Introduction to HTML
