@@ -10,7 +10,7 @@
 ### 5.  Images and Multimedia   
 ### 6.  Lists
 ### 7.  Tables.
-### 11. References.
+### 8. References.
 
  ## 1. Introduction to HTML
        
